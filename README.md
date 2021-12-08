@@ -1,7 +1,7 @@
 ### Hello! Welcome to my GitHub! 👋
 
 <p align="center">
-  <img src="https://www.istockphoto.com/photo/historic-downtown-telluride-colorado-gm1329391098-413139639?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcolorado&utm_term=colorado%3A%3A%3A"  />
+  <img src="https://cdn.onlyinyourstate.com/wp-content/uploads/2017/10/golden-co.jpg"  />
 </p>
 
 - 🔭 I’m currently working on ...
