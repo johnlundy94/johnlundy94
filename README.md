@@ -1,7 +1,7 @@
 ### Hello! Welcome to my GitHub! 👋
 
 <p align="center">
-  <img src="https://cdn.onlyinyourstate.com/wp-content/uploads/2017/10/golden-co.jpg"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.stevegarufi.com%2Fcoloradopictures5.jpg&f=1&nofb=1"  />
 </p>
 
 - 🔭 I’m currently working on ...
