@@ -4,11 +4,6 @@
   <img src="https://www.istockphoto.com/photo/historic-downtown-telluride-colorado-gm1329391098-413139639?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcolorado&utm_term=colorado%3A%3A%3A"  />
 </p>
 
-<!--
-**johnlundy94/johnlundy94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
   Currently graduating from a Full Stack Bootcamp through Denver University and I have finished my last project! A full stack MERN application that helps foodies share their 
 favorite recipes!
@@ -35,4 +30,4 @@ favorite recipes!
 
 [Portfolio](https://eager-tesla-872bba.netlify.app/)
 [Linkedin](www.linkedin.com/in/john-c-lundy)
--->
+
