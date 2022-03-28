@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on ...
-  Graduated from a Full Stack Bootcamp through Denver University. Checl out my final project, a full stack MERN application that helps foodies share their 
+  Graduated from a Full Stack Bootcamp through Denver University. Check out my final project, a full stack MERN application that helps foodies share their 
 favorite recipes. Now I am working on developing as many fullstack MERN applications as I can to develope my knowledge.
 
 - 🌱 I’m currently learning ...
