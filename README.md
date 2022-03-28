@@ -18,7 +18,7 @@ favorite recipes!
   Obtaining a career in web devlopment. This is a passion of mine, and I am going to see it through! ✊
 
 - 💬 Ask me about ...
-  Living in Los Angeles as an aspiring model and actor. Learned a ton about myself.
+  My time going through the bootcamp with the University of Denver. Learned a ton about myself.
 
 - 📫 How to reach me: ...
   Best way to reach me is through my email [johnlundy94@gmail.com](johnlundy94@gmail.com)
