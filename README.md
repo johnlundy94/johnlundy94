@@ -1,7 +1,7 @@
 ### Hello! Welcome to my GitHub! 👋
 
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.stevegarufi.com%2Fcoloradopictures5.jpg&f=1&nofb=1"  />
+  <img src="https://fullstackacademy.in/wp-content/uploads/2021/04/Blog-Article-MERN-Stack.jpg"  />
 </p>
 
 - 🔭 I’m currently working on ...
