@@ -21,7 +21,7 @@ favorite recipes. Now I am working on developing as many fullstack MERN applicat
   My time going through the bootcamp with the University of Denver. Learned a ton about myself.
 
 - 📫 How to reach me: ...
-  Best way to reach me is through my email [johnlundy94@gmail.com](johnlundy94@gmail.com)
+  Best way to reach me is through my email [johnclundyy@gmail.com](johnclundyy@gmail.com)
 
 - ⚡ Fun fact: ...
   I am killer at snowboarding. Shred some gnar! 🏂
