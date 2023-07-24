@@ -26,8 +26,6 @@ favorite recipes. Now I am working on developing as many fullstack MERN applicat
 - ⚡ Fun fact: ...
   I am killer at snowboarding. Shred some gnar! 🏂
 
-![John's github stats](https://github-readme-stats.vercel.app/api?username=johnlundy94&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF&show_icons=true&hide=stars,issues)
-
 [Portfolio](https://eager-tesla-872bba.netlify.app/)
 [Linkedin](www.linkedin.com/in/john-c-lundy)
 
