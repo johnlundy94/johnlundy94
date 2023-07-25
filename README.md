@@ -26,6 +26,6 @@ favorite recipes. Now I am working on developing as many fullstack MERN applicat
 - ⚡ Fun fact: ...
   I am killer at snowboarding. Shred some gnar! 🏂
 
-[Portfolio](https://john-lundy-portfolio.netlify.app/)
+[Portfolio](https://john-lundy-portfolio.netlify.app)
 [Linkedin](www.linkedin.com/in/john-c-lundy)
 
