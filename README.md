@@ -5,11 +5,10 @@
 </p>
 
 - 🔭 I’m currently working on ...
-  Graduated from a Full Stack Bootcamp through Denver University. Check out my final project, a full stack MERN application that helps foodies share their 
-favorite recipes. Now I am working on developing as many fullstack MERN applications as I can to develope my knowledge.
+  Graduated from a Full Stack Bootcamp through Denver University. Developed my final capstone project with Meta's Front-End Certificate. I am currently filling out my portfolio with interesting full stack applications. 
 
 - 🌱 I’m currently learning ...
-  Very much focused on soldifying my knowledge that I learned throughout the bootcamp. Focused mainly on MERN stack.
+  Very much focused on soldifying my knowledge that I learned throughout my studies. Focused mainly on full stack.
 
 - 👯 I’m looking to collaborate on ...
   Anything and everything Full Stack! I want to learn as much as I can about front and back end web design. Absolutely love this stuff!
@@ -18,7 +17,7 @@ favorite recipes. Now I am working on developing as many fullstack MERN applicat
   Obtaining a career in web devlopment. This is a passion of mine, and I am going to see it through! ✊
 
 - 💬 Ask me about ...
-  My time going through the bootcamp with the University of Denver. Learned a ton about myself.
+  My time going through the bootcamp with the University of Denver and continuing the pursuit after. Learned a ton about myself.
 
 - 📫 How to reach me: ...
   Best way to reach me is through my email [johnclundyy@gmail.com](johnclundyy@gmail.com)
