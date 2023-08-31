@@ -1,9 +1,5 @@
 ### Hello! Welcome to my GitHub! 👋
 
-<p align="center">
-  <img src="https://fullstackacademy.in/wp-content/uploads/2021/04/Blog-Article-MERN-Stack.jpg"  />
-</p>
-
 - 🔭 I’m currently working on ...
   Graduated from a Full Stack Bootcamp through Denver University. Developed my final capstone project with Meta's Front-End Certificate. I am currently filling out my portfolio with interesting full stack applications. 
 
