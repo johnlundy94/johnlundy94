@@ -1,26 +1,27 @@
-### Hello! Welcome to my GitHub! 👋
+### Hi there! 👋 I'm John Lundy, Full Stack Developer and cloud enthusiast.
 
 - 🔭 I’m currently working on ...
-  Graduated from a Full Stack Bootcamp through Denver University. Developed my final capstone project with Meta's Front-End Certificate. I am currently filling out my portfolio with interesting full stack applications. 
+  A cloud-integrated SAAS platform for landscaping professionals. It’s all about bringing a seamless, visual, and interactive experience to landscape design and management.
 
 - 🌱 I’m currently learning ...
-  Very much focused on solidifying my knowledge that I learned throughout my studies. Focused mainly on full stack.
+  I'm enhancing the knowledge I gained from the University of Denver’s bootcamp and Meta's Advanced React course, diving deeper into full-stack development and cloud architectures.
 
 - 👯 I’m looking to collaborate on ...
-  Anything and everything Full Stack! I want to learn as much as I can about front and back end web design. Absolutely love this stuff!
+  Innovative web design and development projects! I'm on a mission to absorb all things front-end and back-end. Design patterns, user experience, serverless architecture - you name it, I love it!
 
-- 🤔 I’m looking for help with ...
-  Obtaining a career in web development. This is a passion of mine, and I am going to see it through! ✊
+- 🤔 Seeking to ...
+  Land a role as a software developer. Turning my passion for coding into a career is my current quest. If you have tips, leads, or advice, I'm all ears!
 
 - 💬 Ask me about ...
-  My time going through the bootcamp with the University of Denver and continuing the pursuit after. Learned a ton about myself.
+  The transition from a bootcamp environment to self-taught learning. It's been quite the journey of growth, grit, and plenty of coding!
 
 - 📫 How to reach me: ...
-  Best way to reach me is through my email [johnclundyy@gmail.com](johnclundyy@gmail.com)
+  Preferably via email at [fullstacklundy@gmail.com](fullstacklundy@gmail.com) for anything from potential collaborations to casual tech chats.
 
 - ⚡ Fun fact: ...
-  I am killer at snowboarding. Shred some gnar! 🏂
+  When I'm not coding, I'm exploring the great outdoors. You'll find me camping under the stars and practicing bushcraft. It's all about the simple joys and the thrill of self-sufficiency in nature.
 
-[Portfolio](https://john-lundy-portfolio.netlify.app)
-[Linkedin](www.linkedin.com/in/john-c-lundy)
+[Check out my Portfolio](https://www.johnlundydev.com/)
+[Connect with me on LinkedIn](www.linkedin.com/in/john-c-lundy)
 
+Feel free to browse my repositories, drop a star if you like what you see, and let's get connected!
