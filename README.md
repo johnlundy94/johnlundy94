@@ -4,7 +4,7 @@
   A cloud-integrated SAAS platform for landscaping professionals. It’s all about bringing a seamless, visual, and interactive experience to landscape design and management.
 
 - 🌱 I’m currently learning ...
-  I'm enhancing the knowledge I gained from the University of Denver’s bootcamp and Meta's Advanced React course, diving deeper into full-stack development and cloud architectures.
+   enhancing the knowledge I gained from the University of Denver’s bootcamp and Meta's Advanced React course, diving deeper into full-stack development and cloud architectures.
 
 - 👯 I’m looking to collaborate on ...
   Innovative web design and development projects! I'm on a mission to absorb all things front-end and back-end. Design patterns, user experience, serverless architecture - you name it, I love it!
