@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm John Lundy, Full Stack Developer and cloud enthusiast.
 
 - 🔭 I’m currently working on ...
-  A cloud-integrated SAAS platform for landscaping professionals. It’s all about bringing a seamless, visual, and interactive experience to landscape design and management.
+  A cloud-integrated platform for landscaping professionals. It’s all about bringing a seamless, visual, and interactive experience to landscape design and management.
 
 - 🌱 I’m currently learning ...
    enhancing the knowledge I gained from the University of Denver’s bootcamp and Meta's Advanced React course, diving deeper into full-stack development and cloud architectures.
