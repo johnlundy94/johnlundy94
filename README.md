@@ -1,27 +1,62 @@
-### Hi there! 👋 I'm John Lundy, Full Stack Developer and cloud enthusiast.
+# Hi there! 👋 I'm John Lundy  
+**Full Stack Developer | React | Node.js | AWS | Cloud Enthusiast**
 
-- 🔭 I’m currently working on ...
-  A cloud-integrated platform for landscaping professionals. It’s all about bringing a seamless, visual, and interactive experience to landscape design and management.
+---
 
-- 🌱 I’m currently learning ...
-   enhancing the knowledge I gained from the University of Denver’s bootcamp and Meta's Advanced React course, diving deeper into full-stack development and cloud architectures.
+## About Me
+I’m a passionate Full Stack Developer with 4+ years of experience building scalable web platforms and applications using **React**, **Node.js**, and **AWS cloud services**. My goal is to create user-centric solutions by blending cutting-edge technology with clean, maintainable code.
 
-- 👯 I’m looking to collaborate on ...
-  Innovative web design and development projects! I'm on a mission to absorb all things front-end and back-end. Design patterns, user experience, serverless architecture - you name it, I love it!
+### 🔧 My Expertise:
+- **Front-end:** React (Hooks, Redux), JavaScript (ES6+), Material-UI, Chakra UI, UI/UX Design  
+- **Back-end:** Node.js, RESTful APIs, AWS Services (Lambda, DynamoDB, S3), Firebase (Auth, Database)  
+- **Databases:** NoSQL (DynamoDB, Firebase), SQL, MongoDB (Transferable skills)  
+- **Tools & Practices:** Git, Agile/Scrum, Testing (Jest, React Testing Library), Formik/Yup  
 
-- 🤔 Seeking to ...
-  Land a role as a software developer. Turning my passion for coding into a career is my current quest. If you have tips, leads, or advice, I'm all ears!
+---
 
-- 💬 Ask me about ...
-  The transition from a bootcamp environment to self-taught learning. It's been quite the journey of growth, grit, and plenty of coding!
+## 🌟 Featured Projects
+### [Landscape Design Platform](https://www.verdantvisionslandscaping.com/) 🌿  
+A cloud-integrated platform for landscaping professionals, built using **React**, **Node.js**, and **AWS**.  
+- **Highlights:** Real-time data processing with WebSocket API and AWS Lambda, responsive design, and seamless scalability.  
+- **Tech Stack:** React, Node.js, AWS (Lambda, DynamoDB), WebSocket API  
 
-- 📫 How to reach me: ...
-  Preferably via email at [fullstacklundy@gmail.com](fullstacklundy@gmail.com) for anything from potential collaborations to casual tech chats.
+### [Verdant Visions Admin Dashboard](https://github.com/johnlundy94/admin-dashboard) 🛠️  
+An intuitive dashboard for communication and quote management using **React** and **Material-UI**.  
+- **Highlights:** Integrated live messaging APIs like Mailjet and SendGrid, enabled real-time updates using DynamoDB streams.  
+- **Tech Stack:** React, Material-UI, DynamoDB, RESTful APIs  
 
-- ⚡ Fun fact: ...
-  When I'm not coding, I'm exploring the great outdoors. You'll find me camping under the stars and practicing bushcraft. It's all about the simple joys and the thrill of self-sufficiency in nature.
+### [Calorie Counter App](https://github.com/johnlundy94/calorie-counter) 🍎  
+A nutritional tracking app with Firebase authentication and real-time data updates.  
+- **Highlights:** Leveraged Firebase analytics for user insights, optimized UI with React hooks and state management.  
+- **Tech Stack:** React, Firebase (Auth, Database, Analytics)  
 
-[Check out my Portfolio](https://www.johnlundydev.com/)
-[Connect with me on LinkedIn](www.linkedin.com/in/john-c-lundy)
+Explore more of my projects in the **[Repositories](https://github.com/johnlundy94?tab=repositories)** section!  
 
-Feel free to browse my repositories, drop a star if you like what you see, and let's get connected!
+---
+
+## 🎯 My Goals
+- **Currently Working On:**  
+  Expanding my knowledge in **cloud-native architectures** and building projects that merge functionality with scalability.  
+
+- **Looking to Collaborate On:**  
+  Full-stack projects focused on innovation, serverless solutions, and seamless user experiences.  
+
+- **Career Goal:**  
+  Land a role as a **Full Stack Developer**, where I can contribute to impactful projects and grow as a technologist.  
+
+---
+
+## 💬 Let’s Connect!
+- **Portfolio:** [www.johnlundydev.com](https://www.johnlundydev.com/)  
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/john-c-lundy)  
+- **Email:** [fullstacklundy@gmail.com](mailto:fullstacklundy@gmail.com)  
+
+---
+
+## 🌱 Fun Fact:
+When I'm not coding, I'm exploring the great outdoors—camping under the stars, practicing bushcraft, and enjoying the simple joys of nature.
+
+---
+
+Feel free to browse my repositories, drop a star ⭐ if you like what you see, or reach out to collaborate!
+
