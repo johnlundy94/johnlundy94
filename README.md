@@ -9,7 +9,7 @@ I’m a passionate Full Stack Developer with 4+ years of experience building sca
 ### 🔧 My Expertise:
 - **Front-end:** React (Hooks, Redux), JavaScript (ES6+), Material-UI, Chakra UI, UI/UX Design  
 - **Back-end:** Node.js, RESTful APIs, AWS Services (Lambda, DynamoDB, S3), Firebase (Auth, Database)  
-- **Databases:** NoSQL (DynamoDB, Firebase), SQL, MongoDB (Transferable skills)  
+- **Databases:** NoSQL (DynamoDB, Firebase), SQL, MongoDB
 - **Tools & Practices:** Git, Agile/Scrum, Testing (Jest, React Testing Library), Formik/Yup  
 
 ---
